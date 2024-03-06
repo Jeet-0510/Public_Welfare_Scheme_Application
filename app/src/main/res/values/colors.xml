@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#EFF3F8</color>
+    <color name="font">#2A3675</color>
+    <color name="circleBackground">#EAE2E2</color>
+    <color name="vs2Background">#0A2E8B</color>
+    <color name="blue">#2A3675</color>
+    <color name="grey">#b7b7b7</color>
+    <color name="grey_font">#918E8E</color>
+    <color name="lightBlack">#535252</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#CA821A</color>
+    <color name="query">#038579</color>
+    <color name="green">#0EC615</color>
+    <color name="light_blue">#4961E0</color>
+
+    <color name="textHint">#DA3C3C3C</color>
+
+    //indicator color
+    <color name="inactive">#2A3675</color>
+    <color name="active">#4CAF50</color>
+
+    <color name="colorPrimary">#3F51B5</color> <!-- Primary color -->
+    <color name="colorPrimaryDark">#303F9F</color> <!-- Primary color, darker shade -->
+    <color name="colorAccent">#FF4081</color> <!-- Accent color -->
+
+    <color name="historyGrey">#B6B4B4</color>
+    <color name="historyGreen">#B7E2C5</color>
+    <color name="historyRed">#EDFB7575</color>
+
+</resources>

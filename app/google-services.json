@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154340004347",
+    "project_id": "nih12-446d9",
+    "storage_bucket": "nih12-446d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154340004347:android:7417ce30ca3e86925c7b5e",
+        "android_client_info": {
+          "package_name": "com.example.jamnagarwelfareschemes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvHT9Uk3cTWBJAMZSkNbiC7ZIpa6-kYtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154340004347:android:d89c58f77fef812c5c7b5e",
+        "android_client_info": {
+          "package_name": "com.example.nih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvHT9Uk3cTWBJAMZSkNbiC7ZIpa6-kYtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
